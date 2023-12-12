@@ -1,0 +1,33 @@
+﻿@using StudentDetailsInDigitalPlatform.ViewModels;
+@model CreateRoleViewModel
+
+@{
+    ViewBag.Title = "Create Role Page";
+}
+
+<form method="post">
+    <div style="width:35rem; margin:0 auto">
+    <div class="mt-5">
+        <h4> Create Role</h4>
+    </div>
+    <div class="row g-3 align-items-center mt-1">
+        <div class="col-auto">
+            <label asp-for="@Model.RoleName" class="col-form-label"></label>
+        </div>
+        <div class="col-auto">
+            <input type="text" asp-for="@Model.RoleName" class="form-control">
+        </div>
+        <div>
+            <span asp-validation-for="@Model.RoleName" class="text-danger">
+
+            </span>
+        </div>
+    </div>
+
+    <div>
+        <button type="submit" asp-action="CreateRole" asp-controller="Administration" class="btn btn-primary">
+            Create
+        </button>
+    </div>
+    </div>
+</form>

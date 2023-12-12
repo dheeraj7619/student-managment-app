@@ -1,0 +1,60 @@
+﻿
+@using StudentDetailsInDigitalPlatform.ViewModels;
+@model RegisterViewModel
+
+@{
+    ViewBag.Title = "Register Page";
+}
+
+<form method="post" enctype="multipart/form-data">
+    <div class="container mt-5" style="width:35rem; margin:auto " >
+        <div>
+            <h4 class="fw-bold">Register Details</h4>
+        </div>
+       <div class="row g-3 align-items-center mt-4">
+          <div class="col-auto">
+                <label asp-for="@Model.Email" class="col-form-label"></label>
+          </div>
+          <div class="col-auto">
+                <input type="text" asp-for="@Model.Email" class="form-control" >
+          </div>
+          <div>
+                <span asp-validation-for="@Model.Email" class="text-danger">
+             
+            </span>
+          </div>
+        </div>
+
+        <div class="row g-3 align-items-center mt-2">
+            <div class="col-auto">
+                <label asp-for="@Model.Password" class="col-form-label"></label>
+            </div>
+            <div class="col-auto">
+                <input type="password" asp-for="@Model.Password" class="form-control">
+            </div>
+            <div>
+                <span asp-validation-for="@Model.Password" class="text-danger">
+
+                </span>
+            </div>
+        </div>
+
+         <div class="row g-3 align-items-center mt-0">
+          <div class="col-auto">
+                <label asp-for="@Model.ConfirmPassword" class="col-form-label"></label>
+          </div>
+          <div class="col-auto">
+                <input type="password" asp-for="@Model.ConfirmPassword" class="form-control" >
+          </div>
+          <div>
+                <span asp-validation-for="@Model.ConfirmPassword" class="text-danger">
+
+            </span>
+          </div>
+        </div>
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <button type="submit" asp-action="Register" asp-controller="Account" class="oneSub btn btn-primary"
+        > Submit</button>
+    </div>
+</form>
+

@@ -1,0 +1,90 @@
+﻿@model Student
+
+@{
+    ViewBag.Title = "Student Details";
+    var photoPath = "/Images/" + Model.Photo;
+}
+
+<div class="card mt-5" style="width:45rem;margin:0 auto">
+    <div class="card-header text-center">
+        <h5 class="fw-bold">@Model.Name.ToUpper()</h5>
+
+    </div>
+    <div class="card-body text-center">
+        <img src="@photoPath" alt="Student name" height="200" width="300" />
+       
+        <div class="container mt-5" style=" width:30rem">
+            <table class="table">
+                <tr>
+                    <th scope="row">Register Number</th>
+                    <td>@Model.RegisterNumber</td>
+                </tr>
+                <tr>
+                    <th scope="row">Father Name </th>
+                    <td>@Model.FatherName</td>
+                </tr>
+                <tr>
+                    <th scope="row">Mother Name </th>
+                    <td>@Model.MotherName</td>
+                </tr>
+                <tr>
+                    <th scope="row">Gender</th>
+                    <td>@Model.Gender</td>
+                </tr>
+                    <tr>
+                    <th scope="row">Email</th>
+                    <td>@Model.Email</td>
+                </tr>
+                <tr>
+                    <th scope="row">Phone Number</th>
+                    <td>@Model.PhoneNumber</td>
+                </tr>
+                <tr>
+                    <th scope="row">Course Name</th>
+                    <td>@Model.CourseName</td>
+                </tr>
+
+                <tr>
+                    <th scope="row">Addhar Number </th>
+                    <td>@Model.AddharNumber</td>
+                </tr>
+            
+                <tr>
+                    <th scope="row">Admission Number </th>
+                    <td>@Model.AdmissionNumber</td>
+                </tr>
+            
+                <tr>
+                    <th scope="row">Address</th>
+                    <td>@Model.Address</td>
+                </tr>
+
+                <tr>
+                    <th scope="row">SSLC Percent</th>
+                    <td>@Model.SslcPercent %</td>
+                </tr>
+
+                <tr>
+                    <th scope="row">PUC Percent</th>
+                    <td>@Model.PucPercent %</td>
+                </tr>
+
+                <tr>
+                    <th scope="row">Caste</th>
+                    <td>@Model.Caste</td>
+                </tr>
+        </table>
+        </div>
+    </div>
+    <div class="card-footer text-center">
+        <a asp-action="Index" asp-controller="Home"class="btn btn-primary">
+            Back
+        </a>
+        <a asp-action="Edit" asp-controller="Home" asp-route-id="@Model.StudentId" class="btn btn-primary">
+            Edit
+        </a>
+        <a asp-action="Delete" asp-controller="home" asp-route-id="@Model.StudentId" class="btn btn-danger">
+            Delete
+        </a>
+    </div>
+</div>

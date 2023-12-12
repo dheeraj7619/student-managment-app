@@ -1,0 +1,349 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\StudentDetailsInDigitalPlatform.bundle.scp.css",
+      "PackagePath": "staticwebassets\\StudentDetailsInDigitalPlatform.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\Images\\0b2a6e8c-07ac-4223-9e9f-ef567046a8e4_h2.jfif",
+      "PackagePath": "staticwebassets\\Images\\0b2a6e8c-07ac-4223-9e9f-ef567046a8e4_h2.jfif"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\Images\\0b38707d-092c-4b47-8021-dd901ab34608_h2.jfif",
+      "PackagePath": "staticwebassets\\Images\\0b38707d-092c-4b47-8021-dd901ab34608_h2.jfif"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\Images\\2187481e-60a2-4038-8cef-1519dd28df9d_h3.jfif",
+      "PackagePath": "staticwebassets\\Images\\2187481e-60a2-4038-8cef-1519dd28df9d_h3.jfif"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\Images\\3aaffbed-df6e-4885-bcba-b0cf3108b1a4_",
+      "PackagePath": "staticwebassets\\Images"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\Images\\3bb111b7-c6ff-4b5c-b5b4-bdf119ef480c_h1.jfif",
+      "PackagePath": "staticwebassets\\Images\\3bb111b7-c6ff-4b5c-b5b4-bdf119ef480c_h1.jfif"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\Images\\41bc3e23-f4bd-4cbd-ac81-12a8a138593c_h1.jfif",
+      "PackagePath": "staticwebassets\\Images\\41bc3e23-f4bd-4cbd-ac81-12a8a138593c_h1.jfif"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\Images\\458d842c-ecdf-454f-bcfa-6297f445a8b1_h2.jfif",
+      "PackagePath": "staticwebassets\\Images\\458d842c-ecdf-454f-bcfa-6297f445a8b1_h2.jfif"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\Images\\468d071c-592b-4d5d-b801-4b0ad6767ed1_h2.jfif",
+      "PackagePath": "staticwebassets\\Images\\468d071c-592b-4d5d-b801-4b0ad6767ed1_h2.jfif"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\Images\\77ea71e5-d5f7-49a0-aea6-3b1e2307020e_h2.jfif",
+      "PackagePath": "staticwebassets\\Images\\77ea71e5-d5f7-49a0-aea6-3b1e2307020e_h2.jfif"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\Images\\7db894cd-6cbb-4bbb-a4b0-f298582419ab_download (3).jfif",
+      "PackagePath": "staticwebassets\\Images\\7db894cd-6cbb-4bbb-a4b0-f298582419ab_download (3).jfif"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\Images\\80ba2abb-80ca-43e6-bb70-2f66d0ad8db7_h2.jfif",
+      "PackagePath": "staticwebassets\\Images\\80ba2abb-80ca-43e6-bb70-2f66d0ad8db7_h2.jfif"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\Images\\b1f0c375-96a3-4d8e-b818-62fa35d99492_h2.jfif",
+      "PackagePath": "staticwebassets\\Images\\b1f0c375-96a3-4d8e-b818-62fa35d99492_h2.jfif"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\Images\\b40d8380-18d1-4cc1-aaeb-29197eda16f2_h2.jfif",
+      "PackagePath": "staticwebassets\\Images\\b40d8380-18d1-4cc1-aaeb-29197eda16f2_h2.jfif"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\Images\\b6959a79-dfce-4f0a-a00b-fbb8f2050d76_h3.jfif",
+      "PackagePath": "staticwebassets\\Images\\b6959a79-dfce-4f0a-a00b-fbb8f2050d76_h3.jfif"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\Images\\d70423b4-639a-4208-aab0-fd2a2a534170_h1.jfif",
+      "PackagePath": "staticwebassets\\Images\\d70423b4-639a-4208-aab0-fd2a2a534170_h1.jfif"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\Images\\d8398a2e-dc4e-4b15-a13e-1aa89f78e403_h1.jfif",
+      "PackagePath": "staticwebassets\\Images\\d8398a2e-dc4e-4b15-a13e-1aa89f78e403_h1.jfif"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\Images\\df12067f-457e-4715-a4bf-1f0eab513b2c_h1.jfif",
+      "PackagePath": "staticwebassets\\Images\\df12067f-457e-4715-a4bf-1f0eab513b2c_h1.jfif"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\Images\\df634c79-8309-4a33-929f-f3399ad50af8_h1.jfif",
+      "PackagePath": "staticwebassets\\Images\\df634c79-8309-4a33-929f-f3399ad50af8_h1.jfif"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\Images\\e1420e6c-e662-4fd0-a253-fcb45e98eba5_h3.jfif",
+      "PackagePath": "staticwebassets\\Images\\e1420e6c-e662-4fd0-a253-fcb45e98eba5_h3.jfif"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\Images\\ee268f4c-f664-43f1-a33b-e8612397cacc_h1.jfif",
+      "PackagePath": "staticwebassets\\Images\\ee268f4c-f664-43f1-a33b-e8612397cacc_h1.jfif"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\Images\\ef217186-99e9-440b-81c5-f39c66870230_h3.jfif",
+      "PackagePath": "staticwebassets\\Images\\ef217186-99e9-440b-81c5-f39c66870230_h3.jfif"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\StudentDetailsInDigitalPlatform\\StudentDetailsInDigitalPlatform\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.StudentDetailsInDigitalPlatform.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.StudentDetailsInDigitalPlatform.props",
+      "PackagePath": "build\\StudentDetailsInDigitalPlatform.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.StudentDetailsInDigitalPlatform.props",
+      "PackagePath": "buildMultiTargeting\\StudentDetailsInDigitalPlatform.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.StudentDetailsInDigitalPlatform.props",
+      "PackagePath": "buildTransitive\\StudentDetailsInDigitalPlatform.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,33 @@
+﻿@model IQueryable<IdentityRole>
+
+@{
+    ViewBag.Title = "List Roles";
+}
+
+
+@if (Model.Count() > 0)
+{
+
+    @foreach (var role in Model)
+    {
+        <div class="card mt-5" style="width:30rem;">
+            <div class="card-header text-center">
+                <h5 class="fw-bold"> Id : @role.Id </h5>
+
+            </div>
+            <div class="card-body text-center">
+                <h4>Role Name : @role.Name</h4>
+
+            </div>
+            <div class="card-footer text-center">
+           
+                <a asp-action="EditRole" asp-controller="Administration" asp-route-id="@role.Id" class="btn btn-primary">
+                    Edit
+                </a>
+                <a asp-action="DeleteRole" asp-controller="Administration" asp-route-id="@role.Id" class="btn btn-danger">
+                    Delete
+                </a>
+            </div>
+        </div>
+    }
+}

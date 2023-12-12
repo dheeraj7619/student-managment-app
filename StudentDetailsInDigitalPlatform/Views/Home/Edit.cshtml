@@ -1,0 +1,258 @@
+﻿@using StudentDetailsInDigitalPlatform.ViewModels;
+@model StudentEditViewModel
+
+@{
+    ViewBag.Title = "Edit student";
+}
+
+<form method="post"   enctype="multipart/form-data">
+    <div class="container mt-5" style="width:35rem; margin:auto ">
+        <div>
+            <h4>Edit Student Details</h4>
+        </div>
+        <input asp-for="@Model.ExistingPhoto" hidden />
+        <input asp-for="@Model.RegisterNumber" hidden />
+
+
+        <input asp-for="@Model.Id" hidden/>
+
+        <div class="row g-3 align-items-center mt-4">
+            <div class="col-auto">
+                <label asp-for="@Model.RegisterNumber" class="col-form-label"></label>
+            </div>
+            <div class="col-auto">
+                <input type="text" asp-for="@Model.RegisterNumber" class="form-control" disabled />
+            </div>
+            <div class="col-auto">
+                <span asp-validation-for="@Model.RegisterNumber" class="text-danger">
+
+                </span>
+            </div>
+        </div>
+
+
+        <div class="row g-3 align-items-center mt-4">
+            <div class="col-auto">
+                <label asp-for="@Model.Name" class="col-form-label"></label>
+            </div>
+            <div class="col-auto">
+                <input type="text" asp-for="@Model.Name" class="form-control">
+            </div>
+            <div class="col-auto">
+                <span asp-validation-for="@Model.Name" class="text-danger">
+
+                </span>
+            </div>
+        </div>
+
+        <div class="row g-3 align-items-center mt-4">
+            <div class="col-auto">
+                <label asp-for="@Model.FatherName" class="col-form-label"></label>
+            </div>
+            <div class="col-auto">
+                <input type="text" asp-for="@Model.FatherName" class="form-control">
+            </div>
+            <div class="col-auto">
+                <span asp-validation-for="@Model.FatherName" class="text-danger">
+
+                </span>
+            </div>
+        </div>
+
+
+        <div class="row g-3 align-items-center mt-0">
+            <div class="col-auto">
+                <label asp-for="@Model.MotherName" class="col-form-label"></label>
+            </div>
+            <div class="col-auto">
+                <input type="text" asp-for="@Model.MotherName" class="form-control">
+            </div>
+            <div class="col-auto">
+                <span asp-validation-for="@Model.MotherName" class="text-danger">
+
+                </span>
+            </div>
+        </div>
+
+
+        <div class="row g-3 align-items-center mt-2">
+            <div class="col-auto">
+                <label asp-for="@Model.Gender" class="col-form-label"></label>
+            </div>
+            <div class="col-auto">
+                <input class="form-check-input" type="radio" value="Male" asp-for="@Model.Gender">
+                <label class="form-check-label"> Male</label>
+
+            </div>
+            <div class="col-auto">
+                <input class="form-check-input" type="radio" value="Female" asp-for="@Model.Gender">
+                <label class="form-check-label"> Female</label>
+
+            </div>
+            <div class="col-auto">
+                <span asp-validation-for="@Model.Gender" class="text-danger">
+
+                </span>
+            </div>
+        </div>
+
+
+        <div class="row g-3 align-items-center ">
+            <div class="col-auto">
+                <label asp-for="@Model.Email" class="col-form-label"></label>
+            </div>
+            <div class="col-auto">
+                <input type="text" asp-for="@Model.Email" class="form-control">
+            </div>
+            <div class="col-auto">
+                <span asp-validation-for="@Model.Email" class="text-danger">
+
+                </span>
+            </div>
+        </div>
+
+        <div class="row g-3 align-items-center mt-4">
+            <div class="col-auto">
+                <label asp-for="@Model.PhoneNumber" class="col-form-label"></label>
+            </div>
+            <div class="col-auto">
+                <input type="text" asp-for="@Model.PhoneNumber" class="form-control">
+            </div>
+            <div class="col-auto">
+                <span asp-validation-for="@Model.PhoneNumber" class="text-danger">
+
+                </span>
+            </div>
+        </div>
+
+
+
+        <div class="row g-3 align-items-center mt-4">
+            <div class="col-auto">
+                <label asp-for="@Model.PhotoPath" class="col-form-label"></label>
+            </div>
+            <div class="col-auto photo">
+                <input type="file" asp-for="@Model.PhotoPath" class="form-control" placeholder="">
+            </div>
+            <div class="col-auto">
+                <span asp-validation-for="@Model.PhotoPath" class="text-danger">
+
+                </span>
+            </div>
+        </div>
+
+
+        <div class="row g-3 align-items-center mt-4">
+            <div class="col-auto">
+                <label asp-for="@Model.AdmissionNumber" class="col-form-label"></label>
+            </div>
+            <div class="col-auto">
+                <input type="text" asp-for="@Model.AdmissionNumber" class="form-control">
+            </div>
+            <div class="col-auto">
+                <span asp-validation-for="@Model.AdmissionNumber" class="text-danger">
+
+                </span>
+            </div>
+        </div>
+
+
+        <div class="row g-3 align-items-center mt-4">
+            <div class="col-auto">
+                <label asp-for="@Model.Address" class="col-form-label"></label>
+            </div>
+            <div class="col-auto">
+                <input type="text" asp-for="@Model.Address" class="form-control">
+            </div>
+            <div class="col-auto">
+                <span asp-validation-for="@Model.Address" class="text-danger">
+
+                </span>
+            </div>
+        </div>
+
+        <div class="row g-3 align-items-center mt-4">
+            <div class="col-auto">
+                <label asp-for="@Model.AddharNumber" class="col-form-label"></label>
+            </div>
+            <div class="col-auto">
+                <input type="text" asp-for="@Model.AddharNumber" class="form-control">
+            </div>
+            <div class="col-auto">
+                <span asp-validation-for="@Model.AddharNumber" class="text-danger">
+
+                </span>
+            </div>
+        </div>
+
+
+        <div class="row g-3 align-items-center mt-4">
+            <div class="col-auto">
+                <label asp-for="@Model.CourseName" class="col-form-label"></label>
+            </div>
+            <div class="col-auto ">
+                <select asp-for="@Model.CourseName" asp-items="Html.GetEnumSelectList<Course>()" class="form-select">
+                    <option value="">please Select </option>
+                </select>
+            </div>
+            <div class="col-auto">
+                <span asp-validation-for="@Model.CourseName" class="text-danger">
+
+                </span>
+            </div>
+        </div>
+
+
+
+
+        <div class="row g-3 align-items-center mt-4">
+            <div class="col-auto">
+                <label asp-for="@Model.SslcPercent" class="col-form-label"></label>
+            </div>
+            <div class="col-auto">
+                <input type="text" asp-for="@Model.SslcPercent" class="form-control">
+            </div>
+            <div class="col-auto">
+                <span asp-validation-for="@Model.SslcPercent" class="text-danger">
+
+                </span>
+            </div>
+        </div>
+
+        <div class="row g-3 align-items-center mt-4">
+            <div class="col-auto">
+                <label asp-for="@Model.PucPercent" class="col-form-label"></label>
+            </div>
+            <div class="col-auto">
+                <input type="text" asp-for="@Model.PucPercent" class="form-control">
+            </div>
+            <div class="col-auto">
+                <span asp-validation-for="@Model.PucPercent" class="text-danger">
+
+                </span>
+            </div>
+        </div>
+
+        <div class="row g-3 align-items-center mt-4">
+            <div class="col-auto">
+                <label asp-for="@Model.Caste" class="col-form-label"></label>
+            </div>
+            <div class="col-auto">
+                <input type="text" asp-for="@Model.Caste" class="form-control">
+            </div>
+            <div class="col-auto">
+                <span asp-validation-for="@Model.Caste" class="text-danger">
+
+                </span>
+            </div>
+        </div>
+
+        <div class="mt-5">
+            <button class="btn btn-primary" asp-action="Edit">Submit</button>
+        </div>
+        <div asp-validation-summary="All"></div>
+    </div>
+</form>
+
+
+

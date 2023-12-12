@@ -1,0 +1,79 @@
+﻿@using StudentDetailsInDigitalPlatform.ViewModels;
+
+@model IndexViewModel;
+
+
+@{
+    ViewBag.Title = "Home Page";
+}
+<form asp-action="SearchStudentByName">
+
+    <div class="mt-4 mb-4 ms-3 ">
+        <div class="row g-3 align-items-center mt-1"> 
+            <div class="col-auto" >
+                <input class="form-control" asp-for="@Model.SearchTerm" type="text"
+                placeholder="Search Student By Name" style="width:350px !important"/>
+            </div>
+
+         
+        </div>
+    </div>
+
+
+</form>
+<form asp-action="SearchStudentByName">
+
+    <div class="mt-4 mb-4 ms-3 ">
+        <div class="row g-3 align-items-center mt-1">
+            <div class="col-auto">
+                <input class="form-control" asp-for="@Model.SearchTermById" type="text"
+                       placeholder="Search Student By Id" style="width:350px !important" />
+            </div>
+
+
+        </div>
+    </div>
+
+
+</form>
+
+    <div class="disFlex">
+    @if(Model.Students.Any()){
+        @foreach(var student in Model.Students)
+        {
+               <div class="card ms-3 mb-3" style="width:20rem">
+                   <div class="card-header text-center">
+                            <h5 class="fw-bold">@student.Name.ToUpper()</h5>
+                   </div>
+                   <div class="card-body text-center">
+                            <img src="~/Images/@student.Photo" alt="Student name" height="165" width="300" />
+                   </div>
+                   <div class="card-footer text-center">
+                            <a asp-action="Details" asp-controller="Home" asp-route-id="@student.StudentId" class="btn btn-primary">
+                           View
+                       </a>
+                            <a asp-action="Edit" asp-controller="home" asp-route-id="@student.StudentId" class="btn btn-primary">
+                            Edit
+                        </a>
+                            <a asp-action="Delete" asp-controller="home" asp-route-id="@student.StudentId" class="btn btn-danger">
+                            Delete
+                        </a>
+                   </div>
+            </div>
+
+        }
+
+    }
+    else
+    {
+        if (Model.SearchTerm != null)
+        {
+            <h4 class="mt-5 ">There Is No Students With Name  <span class="h3 text-danger fw-bold">@Model?.SearchTerm</span></h4>
+        }
+        else
+        {
+            <h4 class="mt-5 ">There Is No Students With Id  <span class="h3 text-danger fw-bold">@Model?.SearchTermById</span></h4>
+
+        }
+    }
+</div>
